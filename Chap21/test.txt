@@ -1,0 +1,9 @@
+Enter 10 integer values:
+50 25 75 12 33 67 88 6 13 68
+
+preOrderTraversal()
+50 25 12 6 13 33 75 67 68 88 
+inOrderTraversal()
+6 12 13 25 33 50 67 68 75 88 
+postOrderTraversal()
+6 13 12 33 25 68 67 88 75 50
